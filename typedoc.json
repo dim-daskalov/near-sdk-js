@@ -9,5 +9,6 @@
     "notExported": false
   },
   "out": "docs",
-  "readme": "./README.md"
+  "readme": "./README.md",
+  "plugin": ["typedoc-plugin-markdown"], 
 }

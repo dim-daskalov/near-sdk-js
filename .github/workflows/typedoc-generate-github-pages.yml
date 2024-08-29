@@ -1,54 +1,55 @@
-name: Deploy TypeDoc to GitBook
+# This is an example file.
+# name: Deploy TypeDoc to GitBook
 
-on:
-  push:
-    branches:
-      - develop
+# on:
+#   push:
+#     branches:
+#       - develop
 
-env:
-  NODE_VERSION: 18.x
-  ENTRY_FILE: "packages"
-  CONFIG_PATH: "tsconfig.base.json"
-  USES_PNPM: "true"
+# env:
+#   NODE_VERSION: 18.x
+#   ENTRY_FILE: "packages"
+#   CONFIG_PATH: "tsconfig.base.json"
+#   USES_PNPM: "true"
 
-jobs:
-  deploy:
-    concurrency: ci-${{ github.ref }}
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-    steps:
-      - uses: actions/checkout@v4
+# jobs:
+#   deploy:
+#     concurrency: ci-${{ github.ref }}
+#     runs-on: ubuntu-latest
+#     permissions:
+#       contents: write
+#     steps:
+#       - uses: actions/checkout@v4
 
-      - uses: actions/setup-node@v3
-        with:
-          node-version: ${{ env.NODE_VERSION }}
+#       - uses: actions/setup-node@v3
+#         with:
+#           node-version: ${{ env.NODE_VERSION }}
 
-      - name: Setup pnpm
-        uses: pnpm/action-setup@v4
-        with:
-          version: 7
+#       - name: Setup pnpm
+#         uses: pnpm/action-setup@v4
+#         with:
+#           version: 7
 
-      - name: Install dependencies
-        run: pnpm install --no-frozen-lockfile
+#       - name: Install dependencies
+#         run: pnpm install --no-frozen-lockfile
 
-      - name: Build project
-        run: pnpm build
+#       - name: Build project
+#         run: pnpm build
 
-      - name: Build documentation
-        run: pnpm docs:generate
+#       - name: Build documentation
+#         run: pnpm docs:generate
 
-      - name: Deploy to GitBook
-        env:
-          # The GITBOOK_TOKEN secret should be added to your GitHub repository settings. This token allows the GitHub Actions workflow to push changes to your GitBook repository.
-          # Replace YOUR_GITBOOK_REPOSITORY with the actual GitBook repository URL.
-          GITBOOK_TOKEN: ${{ secrets.GITBOOK_TOKEN }}
-        run: |
-          git config --global user.name 'GitHub Actions'
-          git config --global user.email 'actions@github.com'
-          git clone --branch=master https://gitbook.com/YOUR_GITBOOK_REPOSITORY.git book 
-          rsync -av --delete docs/ book/
-          cd book
-          git add .
-          git commit -m "Update documentation"
-          git push origin master
+#       - name: Deploy to GitBook
+#         env:
+#           # The GITBOOK_TOKEN secret should be added to your GitHub repository settings. This token allows the GitHub Actions workflow to push changes to your GitBook repository.
+#           # Replace YOUR_GITBOOK_REPOSITORY with the actual GitBook repository URL.
+#           GITBOOK_TOKEN: ${{ secrets.GITBOOK_TOKEN }}
+#         run: |
+#           git config --global user.name 'GitHub Actions'
+#           git config --global user.email 'actions@github.com'
+#           git clone --branch=master https://gitbook.com/YOUR_GITBOOK_REPOSITORY.git book
+#           rsync -av --delete docs/ book/
+#           cd book
+#           git add .
+#           git commit -m "Update documentation"
+#           git push origin master

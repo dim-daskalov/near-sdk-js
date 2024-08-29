@@ -15,6 +15,7 @@ jobs:
   deploy:
     concurrency: ci-${{ github.ref }}
     runs-on: ubuntu-latest
+    if: "!contains(github.event.head_commit.message, '[skip ci]')"
     permissions:
       contents: write
     steps:
@@ -49,5 +50,5 @@ jobs:
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
           git add docs/
-          git commit -m "Update documentation"
-          # git push https://dim-daskalov:${{ secrets.GH_PAT }}@github.com/dim-daskalov/near-sdk-js.git test-documentation
+          git commit -m "Update documentation [skip ci]"
+          git push https://dim-daskalov:${{ secrets.GH_PAT }}@github.com/dim-daskalov/near-sdk-js.git test-documentation

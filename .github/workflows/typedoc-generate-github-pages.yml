@@ -45,6 +45,8 @@ jobs:
           git clone --branch=test-documentation https://dim-daskalov:${{ secrets.GITBOOK_TOKEN }}@github.com/dim-daskalov/near-sdk-js.git book
           rsync -av --delete docs/ book/docs/
           cd book
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
           git add docs/
           git commit -m "Update documentation"
           git push origin test-documentation

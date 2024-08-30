@@ -1,15 +1,15 @@
 name: Deploy TypeDoc to GitBook
 
 on:
-  push:
-    branches:
-      - test-documentation
+    push:
+      branches:
+        test-documentation
 
 env:
   NODE_VERSION: 18.x
-  ENTRY_FILE: "packages"
-  CONFIG_PATH: "tsconfig.base.json"
-  USES_PNPM: "true"
+  ENTRY_FILE: 'packages'
+  CONFIG_PATH: 'tsconfig.base.json'
+  USES_PNPM: 'true'
 
 jobs:
   deploy:

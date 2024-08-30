@@ -1,8 +1,6 @@
 {
   "includeVersion": true,
-  "entryPoints": [
-    "packages/near-sdk-js",
-  ],
+  "entryPoints": ["packages/near-sdk-js"],
   "entryPointStrategy": "packages",
   "githubPages": true,
   "validation": {

@@ -1,5 +1,5 @@
-import { readFileSync, writeFileSync, unlinkSync } from "fs";
-import { execSync } from "child_process";
+const { readFileSync, writeFileSync, unlinkSync } = require("fs");
+const { execSync } = require("child_process");
 
 // Load the base configuration from typedoc.json
 const baseConfig = JSON.parse(readFileSync("./typedoc.json", "utf8"));

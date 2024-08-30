@@ -16,4 +16,4 @@ Get the last written or removed value from NEAR storage.
 
 ## Defined in
 
-[packages/near-sdk-js/src/api.ts:326](https://github.com/dim-daskalov/near-sdk-js/blob/d72c9c5d6e6863e8c60ad0aa42a57e43d9805f07/packages/near-sdk-js/src/api.ts#L326)
+[packages/near-sdk-js/src/api.ts:326](https://github.com/dim-daskalov/near-sdk-js/blob/2106fc51376e2b231e6213142832df3fe72cc201/packages/near-sdk-js/src/api.ts#L326)

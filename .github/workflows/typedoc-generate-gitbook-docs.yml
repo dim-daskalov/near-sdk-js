@@ -37,7 +37,7 @@ jobs:
         run: pnpm build
 
       - name: Build documentation
-        run: pnpm docs:generate
+        run: pnpm docs:generate-markdown
 
       - name: Deploy to GitBook
         env:
@@ -45,10 +45,10 @@ jobs:
           GH_PAT: ${{ secrets.GH_PAT }}
         run: |
           git clone --branch=test-documentation https://dim-daskalov:${{ secrets.GH_PAT }}@github.com/dim-daskalov/near-sdk-js.git book
-          rsync -av --delete docs/ book/docs/
+          rsync -av --delete markdown-docs/ book/markdown-docs/
           cd book
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
-          git add docs/
+          git add markdown-docs/
           git commit -m "Update documentation [skip ci]"
           git push https://dim-daskalov:${{ secrets.GH_PAT }}@github.com/dim-daskalov/near-sdk-js.git test-documentation

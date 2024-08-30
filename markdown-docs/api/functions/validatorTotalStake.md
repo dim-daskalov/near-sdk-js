@@ -18,4 +18,4 @@ total staked amount
 
 ## Defined in
 
-[packages/near-sdk-js/src/api.ts:962](https://github.com/dim-daskalov/near-sdk-js/blob/2106fc51376e2b231e6213142832df3fe72cc201/packages/near-sdk-js/src/api.ts#L962)
+[packages/near-sdk-js/src/api.ts:962](https://github.com/dim-daskalov/near-sdk-js/blob/53243ead20439b18f13476ccccdb08a3226b9136/packages/near-sdk-js/src/api.ts#L962)

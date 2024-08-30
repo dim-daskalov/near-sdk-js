@@ -34,7 +34,7 @@ The code of the contract to be deployed.
 
 #### Defined in
 
-[packages/near-sdk-js/src/promise.ts:38](https://github.com/dim-daskalov/near-sdk-js/blob/99346bf73c49986360ba2bcf1c66f01b2abff5b4/packages/near-sdk-js/src/promise.ts#L38)
+[packages/near-sdk-js/src/promise.ts:38](https://github.com/dim-daskalov/near-sdk-js/blob/d72c9c5d6e6863e8c60ad0aa42a57e43d9805f07/packages/near-sdk-js/src/promise.ts#L38)
 
 ## Properties
 
@@ -46,7 +46,7 @@ The code of the contract to be deployed.
 
 #### Defined in
 
-[packages/near-sdk-js/src/promise.ts:38](https://github.com/dim-daskalov/near-sdk-js/blob/99346bf73c49986360ba2bcf1c66f01b2abff5b4/packages/near-sdk-js/src/promise.ts#L38)
+[packages/near-sdk-js/src/promise.ts:38](https://github.com/dim-daskalov/near-sdk-js/blob/d72c9c5d6e6863e8c60ad0aa42a57e43d9805f07/packages/near-sdk-js/src/promise.ts#L38)
 
 ## Methods
 
@@ -72,4 +72,4 @@ The index of the promise batch to attach the action to.
 
 #### Defined in
 
-[packages/near-sdk-js/src/promise.ts:42](https://github.com/dim-daskalov/near-sdk-js/blob/99346bf73c49986360ba2bcf1c66f01b2abff5b4/packages/near-sdk-js/src/promise.ts#L42)
+[packages/near-sdk-js/src/promise.ts:42](https://github.com/dim-daskalov/near-sdk-js/blob/d72c9c5d6e6863e8c60ad0aa42a57e43d9805f07/packages/near-sdk-js/src/promise.ts#L42)

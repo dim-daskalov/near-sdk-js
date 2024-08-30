@@ -26,4 +26,4 @@ The public key to delete.
 
 ## Defined in
 
-[packages/near-sdk-js/src/api.ts:728](https://github.com/dim-daskalov/near-sdk-js/blob/99346bf73c49986360ba2bcf1c66f01b2abff5b4/packages/near-sdk-js/src/api.ts#L728)
+[packages/near-sdk-js/src/api.ts:728](https://github.com/dim-daskalov/near-sdk-js/blob/d72c9c5d6e6863e8c60ad0aa42a57e43d9805f07/packages/near-sdk-js/src/api.ts#L728)

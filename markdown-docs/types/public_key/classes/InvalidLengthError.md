@@ -32,7 +32,7 @@
 
 #### Defined in
 
-[packages/near-sdk-js/src/types/public\_key.ts:63](https://github.com/dim-daskalov/near-sdk-js/blob/99346bf73c49986360ba2bcf1c66f01b2abff5b4/packages/near-sdk-js/src/types/public_key.ts#L63)
+[packages/near-sdk-js/src/types/public\_key.ts:63](https://github.com/dim-daskalov/near-sdk-js/blob/d72c9c5d6e6863e8c60ad0aa42a57e43d9805f07/packages/near-sdk-js/src/types/public_key.ts#L63)
 
 ## Properties
 
@@ -56,7 +56,7 @@ node\_modules/.pnpm/typescript@4.7.4/node\_modules/typescript/lib/lib.es2022.err
 
 #### Defined in
 
-[packages/near-sdk-js/src/types/public\_key.ts:63](https://github.com/dim-daskalov/near-sdk-js/blob/99346bf73c49986360ba2bcf1c66f01b2abff5b4/packages/near-sdk-js/src/types/public_key.ts#L63)
+[packages/near-sdk-js/src/types/public\_key.ts:63](https://github.com/dim-daskalov/near-sdk-js/blob/d72c9c5d6e6863e8c60ad0aa42a57e43d9805f07/packages/near-sdk-js/src/types/public_key.ts#L63)
 
 ***
 
@@ -66,7 +66,7 @@ node\_modules/.pnpm/typescript@4.7.4/node\_modules/typescript/lib/lib.es2022.err
 
 #### Defined in
 
-[packages/near-sdk-js/src/types/public\_key.ts:63](https://github.com/dim-daskalov/near-sdk-js/blob/99346bf73c49986360ba2bcf1c66f01b2abff5b4/packages/near-sdk-js/src/types/public_key.ts#L63)
+[packages/near-sdk-js/src/types/public\_key.ts:63](https://github.com/dim-daskalov/near-sdk-js/blob/d72c9c5d6e6863e8c60ad0aa42a57e43d9805f07/packages/near-sdk-js/src/types/public_key.ts#L63)
 
 ***
 

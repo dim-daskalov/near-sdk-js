@@ -49,6 +49,10 @@ jobs:
           cd book
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
-          git add markdown-docs/
-          git commit -m "update documentation [skip ci]"
-          git push https://dim-daskalov:${{ secrets.GH_PAT }}@github.com/dim-daskalov/near-sdk-js.git git-book
+          if [ -n "$(git status --porcelain)" ]; then
+            git add markdown-docs/
+            git commit -m "update documentation [skip ci]"
+            git push https://dim-daskalov:${{ secrets.GH_PAT }}@github.com/dim-daskalov/near-sdk-js.git git-book
+          else
+            echo "No changes to commit"
+          fi

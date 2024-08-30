@@ -9,7 +9,7 @@ const markdownConfig = {
   ...baseConfig,
   githubPages: false,
   out: "markdown-docs",
-  plugin: ["typedoc-plugin-markdown"],
+  plugin: ["typedoc-plugin-markdown"]
 };
 
 // Write the extended configuration to a temporary file

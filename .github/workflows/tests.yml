@@ -28,13 +28,15 @@ jobs:
         run: pnpm lint
       - name: Format code
         run: pnpm format
-      - name: Run git status
+      - name: Show uncommitted changes after linting and formatting
         run: git status
-      - name: Check that lints where commited
-        run: test -z "$(git status --porcelain)"
+      - name: Check if lint and format left uncommitted changes
+        run: git diff --exit-code || true
       - name: Build
         run: pnpm build
-      - name: Check that all build artifacts where commited
-        run: test -z "$(git status --porcelain)"
+      - name: Show uncommitted changes after build
+        run: git status
+      - name: Check if build artifacts are committed
+        run: git diff --exit-code || true
       - name: Run tests
         run: pnpm test

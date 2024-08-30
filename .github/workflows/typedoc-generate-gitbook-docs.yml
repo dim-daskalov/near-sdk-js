@@ -3,7 +3,7 @@ name: Deploy TypeDoc to GitBook
 on:
     push:
       branches:
-        - test-documentation
+        test-documentation
 
 env:
   NODE_VERSION: 18.x

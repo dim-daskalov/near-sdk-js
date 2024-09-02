@@ -16,4 +16,4 @@ Returns the cost of storing 0 Byte on NEAR storage.
 
 ## Defined in
 
-[packages/near-sdk-js/src/api.ts:385](https://github.com/dim-daskalov/near-sdk-js/blob/be0ff522287d0e67e883a4ff1964fefe089540e8/packages/near-sdk-js/src/api.ts#L385)
+[packages/near-sdk-js/src/api.ts:385](https://github.com/dim-daskalov/near-sdk-js/blob/7e00e38bf9adddbe759a3d4d474ca9731ec4052b/packages/near-sdk-js/src/api.ts#L385)

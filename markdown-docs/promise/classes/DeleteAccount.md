@@ -34,7 +34,7 @@ The beneficiary of the account deletion - the account to recieve all of the rema
 
 #### Defined in
 
-[packages/near-sdk-js/src/promise.ts:306](https://github.com/dim-daskalov/near-sdk-js/blob/be0ff522287d0e67e883a4ff1964fefe089540e8/packages/near-sdk-js/src/promise.ts#L306)
+[packages/near-sdk-js/src/promise.ts:306](https://github.com/dim-daskalov/near-sdk-js/blob/7e00e38bf9adddbe759a3d4d474ca9731ec4052b/packages/near-sdk-js/src/promise.ts#L306)
 
 ## Properties
 
@@ -46,7 +46,7 @@ The beneficiary of the account deletion - the account to recieve all of the rema
 
 #### Defined in
 
-[packages/near-sdk-js/src/promise.ts:306](https://github.com/dim-daskalov/near-sdk-js/blob/be0ff522287d0e67e883a4ff1964fefe089540e8/packages/near-sdk-js/src/promise.ts#L306)
+[packages/near-sdk-js/src/promise.ts:306](https://github.com/dim-daskalov/near-sdk-js/blob/7e00e38bf9adddbe759a3d4d474ca9731ec4052b/packages/near-sdk-js/src/promise.ts#L306)
 
 ## Methods
 
@@ -72,4 +72,4 @@ The index of the promise batch to attach the action to.
 
 #### Defined in
 
-[packages/near-sdk-js/src/promise.ts:310](https://github.com/dim-daskalov/near-sdk-js/blob/be0ff522287d0e67e883a4ff1964fefe089540e8/packages/near-sdk-js/src/promise.ts#L310)
+[packages/near-sdk-js/src/promise.ts:310](https://github.com/dim-daskalov/near-sdk-js/blob/7e00e38bf9adddbe759a3d4d474ca9731ec4052b/packages/near-sdk-js/src/promise.ts#L310)

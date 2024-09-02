@@ -12,4 +12,4 @@ A large integer representing the nonce.
 
 ## Defined in
 
-[packages/near-sdk-js/src/types/primitives.ts:20](https://github.com/dim-daskalov/near-sdk-js/blob/1a0ba6d21107f9be72f7c7293e6bb551722b82bb/packages/near-sdk-js/src/types/primitives.ts#L20)
+[packages/near-sdk-js/src/types/primitives.ts:20](https://github.com/dim-daskalov/near-sdk-js/blob/8b4bf28d95f283732af5cb570c813f27cd93f7e4/packages/near-sdk-js/src/types/primitives.ts#L20)

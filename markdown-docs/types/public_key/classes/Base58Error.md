@@ -30,7 +30,7 @@
 
 #### Defined in
 
-[packages/near-sdk-js/src/types/public\_key.ts:68](https://github.com/dim-daskalov/near-sdk-js/blob/8b4bf28d95f283732af5cb570c813f27cd93f7e4/packages/near-sdk-js/src/types/public_key.ts#L68)
+[packages/near-sdk-js/src/types/public\_key.ts:68](https://github.com/dim-daskalov/near-sdk-js/blob/0bae67c8fac52fa6fac6b3698d8164f5618f8e2c/packages/near-sdk-js/src/types/public_key.ts#L68)
 
 ## Properties
 
@@ -54,7 +54,7 @@ node\_modules/.pnpm/typescript@4.7.4/node\_modules/typescript/lib/lib.es2022.err
 
 #### Defined in
 
-[packages/near-sdk-js/src/types/public\_key.ts:68](https://github.com/dim-daskalov/near-sdk-js/blob/8b4bf28d95f283732af5cb570c813f27cd93f7e4/packages/near-sdk-js/src/types/public_key.ts#L68)
+[packages/near-sdk-js/src/types/public\_key.ts:68](https://github.com/dim-daskalov/near-sdk-js/blob/0bae67c8fac52fa6fac6b3698d8164f5618f8e2c/packages/near-sdk-js/src/types/public_key.ts#L68)
 
 ***
 

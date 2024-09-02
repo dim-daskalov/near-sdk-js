@@ -31,4 +31,4 @@ Whether the function can be called by other contracts.
 
 ## Defined in
 
-[packages/near-sdk-js/src/near-bindgen.ts:73](https://github.com/dim-daskalov/near-sdk-js/blob/8b4bf28d95f283732af5cb570c813f27cd93f7e4/packages/near-sdk-js/src/near-bindgen.ts#L73)
+[packages/near-sdk-js/src/near-bindgen.ts:73](https://github.com/dim-daskalov/near-sdk-js/blob/0bae67c8fac52fa6fac6b3698d8164f5618f8e2c/packages/near-sdk-js/src/near-bindgen.ts#L73)

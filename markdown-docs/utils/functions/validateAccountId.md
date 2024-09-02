@@ -23,4 +23,4 @@ The Account ID string you want to validate.
 
 ## Defined in
 
-[packages/near-sdk-js/src/utils.ts:287](https://github.com/dim-daskalov/near-sdk-js/blob/0bae67c8fac52fa6fac6b3698d8164f5618f8e2c/packages/near-sdk-js/src/utils.ts#L287)
+[packages/near-sdk-js/src/utils.ts:287](https://github.com/dim-daskalov/near-sdk-js/blob/f8f6e35ac266a6f748747b51c0b9a0192677684e/packages/near-sdk-js/src/utils.ts#L287)

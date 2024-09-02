@@ -50,7 +50,7 @@ The nonce to use.
 
 #### Defined in
 
-[packages/near-sdk-js/src/promise.ts:258](https://github.com/dim-daskalov/near-sdk-js/blob/0bae67c8fac52fa6fac6b3698d8164f5618f8e2c/packages/near-sdk-js/src/promise.ts#L258)
+[packages/near-sdk-js/src/promise.ts:258](https://github.com/dim-daskalov/near-sdk-js/blob/f8f6e35ac266a6f748747b51c0b9a0192677684e/packages/near-sdk-js/src/promise.ts#L258)
 
 ## Properties
 
@@ -62,7 +62,7 @@ The allowance for the key in yoctoNEAR.
 
 #### Defined in
 
-[packages/near-sdk-js/src/promise.ts:260](https://github.com/dim-daskalov/near-sdk-js/blob/0bae67c8fac52fa6fac6b3698d8164f5618f8e2c/packages/near-sdk-js/src/promise.ts#L260)
+[packages/near-sdk-js/src/promise.ts:260](https://github.com/dim-daskalov/near-sdk-js/blob/f8f6e35ac266a6f748747b51c0b9a0192677684e/packages/near-sdk-js/src/promise.ts#L260)
 
 ***
 
@@ -74,7 +74,7 @@ The names of funcitons to authorize.
 
 #### Defined in
 
-[packages/near-sdk-js/src/promise.ts:262](https://github.com/dim-daskalov/near-sdk-js/blob/0bae67c8fac52fa6fac6b3698d8164f5618f8e2c/packages/near-sdk-js/src/promise.ts#L262)
+[packages/near-sdk-js/src/promise.ts:262](https://github.com/dim-daskalov/near-sdk-js/blob/f8f6e35ac266a6f748747b51c0b9a0192677684e/packages/near-sdk-js/src/promise.ts#L262)
 
 ***
 
@@ -86,7 +86,7 @@ The nonce to use.
 
 #### Defined in
 
-[packages/near-sdk-js/src/promise.ts:263](https://github.com/dim-daskalov/near-sdk-js/blob/0bae67c8fac52fa6fac6b3698d8164f5618f8e2c/packages/near-sdk-js/src/promise.ts#L263)
+[packages/near-sdk-js/src/promise.ts:263](https://github.com/dim-daskalov/near-sdk-js/blob/f8f6e35ac266a6f748747b51c0b9a0192677684e/packages/near-sdk-js/src/promise.ts#L263)
 
 ***
 
@@ -98,7 +98,7 @@ The public key to add as a access key.
 
 #### Defined in
 
-[packages/near-sdk-js/src/promise.ts:259](https://github.com/dim-daskalov/near-sdk-js/blob/0bae67c8fac52fa6fac6b3698d8164f5618f8e2c/packages/near-sdk-js/src/promise.ts#L259)
+[packages/near-sdk-js/src/promise.ts:259](https://github.com/dim-daskalov/near-sdk-js/blob/f8f6e35ac266a6f748747b51c0b9a0192677684e/packages/near-sdk-js/src/promise.ts#L259)
 
 ***
 
@@ -110,7 +110,7 @@ The account ID of the receiver.
 
 #### Defined in
 
-[packages/near-sdk-js/src/promise.ts:261](https://github.com/dim-daskalov/near-sdk-js/blob/0bae67c8fac52fa6fac6b3698d8164f5618f8e2c/packages/near-sdk-js/src/promise.ts#L261)
+[packages/near-sdk-js/src/promise.ts:261](https://github.com/dim-daskalov/near-sdk-js/blob/f8f6e35ac266a6f748747b51c0b9a0192677684e/packages/near-sdk-js/src/promise.ts#L261)
 
 ## Methods
 
@@ -136,4 +136,4 @@ The index of the promise batch to attach the action to.
 
 #### Defined in
 
-[packages/near-sdk-js/src/promise.ts:268](https://github.com/dim-daskalov/near-sdk-js/blob/0bae67c8fac52fa6fac6b3698d8164f5618f8e2c/packages/near-sdk-js/src/promise.ts#L268)
+[packages/near-sdk-js/src/promise.ts:268](https://github.com/dim-daskalov/near-sdk-js/blob/f8f6e35ac266a6f748747b51c0b9a0192677684e/packages/near-sdk-js/src/promise.ts#L268)

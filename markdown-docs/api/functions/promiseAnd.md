@@ -22,4 +22,4 @@ An arbitrary array of NEAR promise indexes to join.
 
 ## Defined in
 
-[packages/near-sdk-js/src/api.ts:535](https://github.com/dim-daskalov/near-sdk-js/blob/7e00e38bf9adddbe759a3d4d474ca9731ec4052b/packages/near-sdk-js/src/api.ts#L535)
+[packages/near-sdk-js/src/api.ts:535](https://github.com/dim-daskalov/near-sdk-js/blob/747cef27e9ea5b250fe75696a18e61a74d9178c8/packages/near-sdk-js/src/api.ts#L535)

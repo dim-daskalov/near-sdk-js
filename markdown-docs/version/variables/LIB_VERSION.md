@@ -10,4 +10,4 @@
 
 ## Defined in
 
-[packages/near-sdk-js/src/version.ts:10](https://github.com/dim-daskalov/near-sdk-js/blob/7e00e38bf9adddbe759a3d4d474ca9731ec4052b/packages/near-sdk-js/src/version.ts#L10)
+[packages/near-sdk-js/src/version.ts:10](https://github.com/dim-daskalov/near-sdk-js/blob/747cef27e9ea5b250fe75696a18e61a74d9178c8/packages/near-sdk-js/src/version.ts#L10)

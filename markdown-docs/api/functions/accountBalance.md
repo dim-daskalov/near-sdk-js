@@ -16,4 +16,4 @@ Returns the current account's account balance.
 
 ## Defined in
 
-[packages/near-sdk-js/src/api.ts:266](https://github.com/dim-daskalov/near-sdk-js/blob/6de94ce63ef9203b452598c175980884828ecc66/packages/near-sdk-js/src/api.ts#L266)
+[packages/near-sdk-js/src/api.ts:266](https://github.com/dim-daskalov/near-sdk-js/blob/be0ff522287d0e67e883a4ff1964fefe089540e8/packages/near-sdk-js/src/api.ts#L266)

@@ -22,7 +22,7 @@
 
 #### Defined in
 
-[packages/near-sdk-js/src/utils.ts:7](https://github.com/dim-daskalov/near-sdk-js/blob/6de94ce63ef9203b452598c175980884828ecc66/packages/near-sdk-js/src/utils.ts#L7)
+[packages/near-sdk-js/src/utils.ts:7](https://github.com/dim-daskalov/near-sdk-js/blob/be0ff522287d0e67e883a4ff1964fefe089540e8/packages/near-sdk-js/src/utils.ts#L7)
 
 ***
 
@@ -40,7 +40,7 @@
 
 #### Defined in
 
-[packages/near-sdk-js/src/utils.ts:5](https://github.com/dim-daskalov/near-sdk-js/blob/6de94ce63ef9203b452598c175980884828ecc66/packages/near-sdk-js/src/utils.ts#L5)
+[packages/near-sdk-js/src/utils.ts:5](https://github.com/dim-daskalov/near-sdk-js/blob/be0ff522287d0e67e883a4ff1964fefe089540e8/packages/near-sdk-js/src/utils.ts#L5)
 
 ***
 
@@ -58,7 +58,7 @@
 
 #### Defined in
 
-[packages/near-sdk-js/src/utils.ts:6](https://github.com/dim-daskalov/near-sdk-js/blob/6de94ce63ef9203b452598c175980884828ecc66/packages/near-sdk-js/src/utils.ts#L6)
+[packages/near-sdk-js/src/utils.ts:6](https://github.com/dim-daskalov/near-sdk-js/blob/be0ff522287d0e67e883a4ff1964fefe089540e8/packages/near-sdk-js/src/utils.ts#L6)
 
 ***
 
@@ -76,4 +76,4 @@
 
 #### Defined in
 
-[packages/near-sdk-js/src/utils.ts:8](https://github.com/dim-daskalov/near-sdk-js/blob/6de94ce63ef9203b452598c175980884828ecc66/packages/near-sdk-js/src/utils.ts#L8)
+[packages/near-sdk-js/src/utils.ts:8](https://github.com/dim-daskalov/near-sdk-js/blob/be0ff522287d0e67e883a4ff1964fefe089540e8/packages/near-sdk-js/src/utils.ts#L8)

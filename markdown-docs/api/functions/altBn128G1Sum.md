@@ -29,4 +29,4 @@ sum over Fq.
 
 ## Defined in
 
-[packages/near-sdk-js/src/api.ts:995](https://github.com/dim-daskalov/near-sdk-js/blob/53243ead20439b18f13476ccccdb08a3226b9136/packages/near-sdk-js/src/api.ts#L995)
+[packages/near-sdk-js/src/api.ts:995](https://github.com/dim-daskalov/near-sdk-js/blob/1a0ba6d21107f9be72f7c7293e6bb551722b82bb/packages/near-sdk-js/src/api.ts#L995)

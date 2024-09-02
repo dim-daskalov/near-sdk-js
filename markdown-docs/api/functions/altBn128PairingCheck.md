@@ -32,4 +32,4 @@ whether pairing check pass
 
 ## Defined in
 
-[packages/near-sdk-js/src/api.ts:1015](https://github.com/dim-daskalov/near-sdk-js/blob/f8f6e35ac266a6f748747b51c0b9a0192677684e/packages/near-sdk-js/src/api.ts#L1015)
+[packages/near-sdk-js/src/api.ts:1015](https://github.com/dim-daskalov/near-sdk-js/blob/6de94ce63ef9203b452598c175980884828ecc66/packages/near-sdk-js/src/api.ts#L1015)

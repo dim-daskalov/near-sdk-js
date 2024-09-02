@@ -12,4 +12,4 @@ A PromiseIndex which represents the ID of a NEAR Promise.
 
 ## Defined in
 
-[packages/near-sdk-js/src/utils.ts:16](https://github.com/dim-daskalov/near-sdk-js/blob/f8f6e35ac266a6f748747b51c0b9a0192677684e/packages/near-sdk-js/src/utils.ts#L16)
+[packages/near-sdk-js/src/utils.ts:16](https://github.com/dim-daskalov/near-sdk-js/blob/6de94ce63ef9203b452598c175980884828ecc66/packages/near-sdk-js/src/utils.ts#L16)

@@ -20,4 +20,4 @@ When implemented, allow object to be stored as collection key
 
 #### Defined in
 
-[packages/near-sdk-js/src/utils.ts:361](https://github.com/dim-daskalov/near-sdk-js/blob/f8f6e35ac266a6f748747b51c0b9a0192677684e/packages/near-sdk-js/src/utils.ts#L361)
+[packages/near-sdk-js/src/utils.ts:361](https://github.com/dim-daskalov/near-sdk-js/blob/6de94ce63ef9203b452598c175980884828ecc66/packages/near-sdk-js/src/utils.ts#L361)

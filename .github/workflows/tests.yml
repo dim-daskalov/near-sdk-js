@@ -28,19 +28,13 @@ jobs:
         run: pnpm lint
       - name: Format code
         run: pnpm format
-      - name: Show uncommitted changes after linting and formatting
+      - name: Run git status
         run: git status
-      - name: Show diff for pnpm-lock.yaml
-        run: git diff --text pnpm-lock.yaml
-      - name: Check if lint and format left uncommitted changes
-        run: git diff --exit-code || true
+      - name: Check that lints where commited
+        run: test -z "$(git status --porcelain)"
       - name: Build
         run: pnpm build
-      - name: Show uncommitted changes after build
-        run: git status
-      - name: Show diff for pnpm-lock.yaml after build
-        run: git diff --text pnpm-lock.yaml
-      - name: Check if build artifacts are committed
-        run: git diff --exit-code || true
+      - name: Check that all build artifacts where commited
+        run: test -z "$(git status --porcelain)"
       - name: Run tests
         run: pnpm test

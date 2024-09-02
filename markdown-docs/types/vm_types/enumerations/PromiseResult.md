@@ -19,7 +19,7 @@ A Promise result in near can be one of:
 
 #### Defined in
 
-[packages/near-sdk-js/src/types/vm\_types.ts:19](https://github.com/dim-daskalov/near-sdk-js/blob/747cef27e9ea5b250fe75696a18e61a74d9178c8/packages/near-sdk-js/src/types/vm_types.ts#L19)
+[packages/near-sdk-js/src/types/vm\_types.ts:19](https://github.com/dim-daskalov/near-sdk-js/blob/cbf6345c5a6e60ddad31f7dbba6d352a4fea5124/packages/near-sdk-js/src/types/vm_types.ts#L19)
 
 ***
 
@@ -29,7 +29,7 @@ A Promise result in near can be one of:
 
 #### Defined in
 
-[packages/near-sdk-js/src/types/vm\_types.ts:17](https://github.com/dim-daskalov/near-sdk-js/blob/747cef27e9ea5b250fe75696a18e61a74d9178c8/packages/near-sdk-js/src/types/vm_types.ts#L17)
+[packages/near-sdk-js/src/types/vm\_types.ts:17](https://github.com/dim-daskalov/near-sdk-js/blob/cbf6345c5a6e60ddad31f7dbba6d352a4fea5124/packages/near-sdk-js/src/types/vm_types.ts#L17)
 
 ***
 
@@ -39,4 +39,4 @@ A Promise result in near can be one of:
 
 #### Defined in
 
-[packages/near-sdk-js/src/types/vm\_types.ts:18](https://github.com/dim-daskalov/near-sdk-js/blob/747cef27e9ea5b250fe75696a18e61a74d9178c8/packages/near-sdk-js/src/types/vm_types.ts#L18)
+[packages/near-sdk-js/src/types/vm\_types.ts:18](https://github.com/dim-daskalov/near-sdk-js/blob/cbf6345c5a6e60ddad31f7dbba6d352a4fea5124/packages/near-sdk-js/src/types/vm_types.ts#L18)

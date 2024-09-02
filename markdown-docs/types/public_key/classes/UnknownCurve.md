@@ -26,7 +26,7 @@
 
 #### Defined in
 
-[packages/near-sdk-js/src/types/public\_key.ts:73](https://github.com/dim-daskalov/near-sdk-js/blob/747cef27e9ea5b250fe75696a18e61a74d9178c8/packages/near-sdk-js/src/types/public_key.ts#L73)
+[packages/near-sdk-js/src/types/public\_key.ts:73](https://github.com/dim-daskalov/near-sdk-js/blob/cbf6345c5a6e60ddad31f7dbba6d352a4fea5124/packages/near-sdk-js/src/types/public_key.ts#L73)
 
 ## Properties
 

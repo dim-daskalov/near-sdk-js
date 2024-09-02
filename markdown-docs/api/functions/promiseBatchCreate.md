@@ -22,4 +22,4 @@ The account ID of the target contract.
 
 ## Defined in
 
-[packages/near-sdk-js/src/api.ts:546](https://github.com/dim-daskalov/near-sdk-js/blob/747cef27e9ea5b250fe75696a18e61a74d9178c8/packages/near-sdk-js/src/api.ts#L546)
+[packages/near-sdk-js/src/api.ts:546](https://github.com/dim-daskalov/near-sdk-js/blob/cbf6345c5a6e60ddad31f7dbba6d352a4fea5124/packages/near-sdk-js/src/api.ts#L546)

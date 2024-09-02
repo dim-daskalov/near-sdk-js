@@ -34,7 +34,7 @@ Options for retrieving and storing data.
 
 #### Defined in
 
-[packages/near-sdk-js/src/collections/vector.ts:251](https://github.com/dim-daskalov/near-sdk-js/blob/747cef27e9ea5b250fe75696a18e61a74d9178c8/packages/near-sdk-js/src/collections/vector.ts#L251)
+[packages/near-sdk-js/src/collections/vector.ts:251](https://github.com/dim-daskalov/near-sdk-js/blob/cbf6345c5a6e60ddad31f7dbba6d352a4fea5124/packages/near-sdk-js/src/collections/vector.ts#L251)
 
 ## Methods
 
@@ -56,4 +56,4 @@ Options for retrieving and storing data.
 
 #### Defined in
 
-[packages/near-sdk-js/src/collections/vector.ts:256](https://github.com/dim-daskalov/near-sdk-js/blob/747cef27e9ea5b250fe75696a18e61a74d9178c8/packages/near-sdk-js/src/collections/vector.ts#L256)
+[packages/near-sdk-js/src/collections/vector.ts:256](https://github.com/dim-daskalov/near-sdk-js/blob/cbf6345c5a6e60ddad31f7dbba6d352a4fea5124/packages/near-sdk-js/src/collections/vector.ts#L256)

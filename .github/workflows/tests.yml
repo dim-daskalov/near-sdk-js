@@ -23,7 +23,7 @@ jobs:
           node-version: 16.x
           cache: pnpm
       - name: Install dependencies
-        run: pnpm install --frozen-lockfile
+        run: pnpm install --no-frozen-lockfile
       - name: Lint code
         run: pnpm lint
       - name: Format code

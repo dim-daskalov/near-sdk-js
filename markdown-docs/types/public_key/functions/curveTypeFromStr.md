@@ -18,4 +18,4 @@
 
 ## Defined in
 
-[packages/near-sdk-js/src/types/public\_key.ts:49](https://github.com/dim-daskalov/near-sdk-js/blob/cbf6345c5a6e60ddad31f7dbba6d352a4fea5124/packages/near-sdk-js/src/types/public_key.ts#L49)
+[packages/near-sdk-js/src/types/public\_key.ts:49](https://github.com/dim-daskalov/near-sdk-js/blob/306b0e9106179b8fa9fa5a5e519a844314d6230e/packages/near-sdk-js/src/types/public_key.ts#L49)

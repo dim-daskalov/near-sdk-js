@@ -30,12 +30,16 @@ jobs:
         run: pnpm format
       - name: Show uncommitted changes after linting and formatting
         run: git status
+      - name: Show diff for pnpm-lock.yaml
+        run: git diff --text pnpm-lock.yaml
       - name: Check if lint and format left uncommitted changes
         run: git diff --exit-code || true
       - name: Build
         run: pnpm build
       - name: Show uncommitted changes after build
         run: git status
+      - name: Show diff for pnpm-lock.yaml after build
+        run: git diff --text pnpm-lock.yaml
       - name: Check if build artifacts are committed
         run: git diff --exit-code || true
       - name: Run tests

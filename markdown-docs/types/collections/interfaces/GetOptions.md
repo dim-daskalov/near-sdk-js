@@ -22,7 +22,7 @@ A default value to return if the original value is not present or null.
 
 #### Defined in
 
-[packages/near-sdk-js/src/types/collections.ts:14](https://github.com/dim-daskalov/near-sdk-js/blob/0c34997aba6fa3f679d39c16d17f5e07ff189c24/packages/near-sdk-js/src/types/collections.ts#L14)
+[packages/near-sdk-js/src/types/collections.ts:14](https://github.com/dim-daskalov/near-sdk-js/blob/dbda01c3a7ae0812d5ceec519e35b9f3a01fe616/packages/near-sdk-js/src/types/collections.ts#L14)
 
 ## Methods
 
@@ -44,7 +44,7 @@ The Uint8Array retrieved from NEAR storage to deserialize.
 
 #### Defined in
 
-[packages/near-sdk-js/src/types/collections.ts:26](https://github.com/dim-daskalov/near-sdk-js/blob/0c34997aba6fa3f679d39c16d17f5e07ff189c24/packages/near-sdk-js/src/types/collections.ts#L26)
+[packages/near-sdk-js/src/types/collections.ts:26](https://github.com/dim-daskalov/near-sdk-js/blob/dbda01c3a7ae0812d5ceec519e35b9f3a01fe616/packages/near-sdk-js/src/types/collections.ts#L26)
 
 ***
 
@@ -66,7 +66,7 @@ The value returned from deserialization - either the provided `deserializer` or 
 
 #### Defined in
 
-[packages/near-sdk-js/src/types/collections.ts:10](https://github.com/dim-daskalov/near-sdk-js/blob/0c34997aba6fa3f679d39c16d17f5e07ff189c24/packages/near-sdk-js/src/types/collections.ts#L10)
+[packages/near-sdk-js/src/types/collections.ts:10](https://github.com/dim-daskalov/near-sdk-js/blob/dbda01c3a7ae0812d5ceec519e35b9f3a01fe616/packages/near-sdk-js/src/types/collections.ts#L10)
 
 ***
 
@@ -88,4 +88,4 @@ The value that will be serialized - either the `DataType` or a unknown value.
 
 #### Defined in
 
-[packages/near-sdk-js/src/types/collections.ts:20](https://github.com/dim-daskalov/near-sdk-js/blob/0c34997aba6fa3f679d39c16d17f5e07ff189c24/packages/near-sdk-js/src/types/collections.ts#L20)
+[packages/near-sdk-js/src/types/collections.ts:20](https://github.com/dim-daskalov/near-sdk-js/blob/dbda01c3a7ae0812d5ceec519e35b9f3a01fe616/packages/near-sdk-js/src/types/collections.ts#L20)

@@ -22,4 +22,4 @@ The path to the WASM file to read code from.
 
 ## Defined in
 
-[packages/near-sdk-js/src/near-bindgen.ts:249](https://github.com/dim-daskalov/near-sdk-js/blob/0c34997aba6fa3f679d39c16d17f5e07ff189c24/packages/near-sdk-js/src/near-bindgen.ts#L249)
+[packages/near-sdk-js/src/near-bindgen.ts:249](https://github.com/dim-daskalov/near-sdk-js/blob/dbda01c3a7ae0812d5ceec519e35b9f3a01fe616/packages/near-sdk-js/src/near-bindgen.ts#L249)

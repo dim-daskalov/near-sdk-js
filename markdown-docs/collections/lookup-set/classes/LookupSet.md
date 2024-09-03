@@ -30,7 +30,7 @@ The byte prefix to use when storing elements inside this collection.
 
 #### Defined in
 
-[packages/near-sdk-js/src/collections/lookup-set.ts:12](https://github.com/dim-daskalov/near-sdk-js/blob/55110428626c8c36ebf4dd321736ce1171846720/packages/near-sdk-js/src/collections/lookup-set.ts#L12)
+[packages/near-sdk-js/src/collections/lookup-set.ts:12](https://github.com/dim-daskalov/near-sdk-js/blob/d666013bbb17e79dbf6b4425d4bac78f40b0804c/packages/near-sdk-js/src/collections/lookup-set.ts#L12)
 
 ## Properties
 
@@ -42,7 +42,7 @@ The byte prefix to use when storing elements inside this collection.
 
 #### Defined in
 
-[packages/near-sdk-js/src/collections/lookup-set.ts:12](https://github.com/dim-daskalov/near-sdk-js/blob/55110428626c8c36ebf4dd321736ce1171846720/packages/near-sdk-js/src/collections/lookup-set.ts#L12)
+[packages/near-sdk-js/src/collections/lookup-set.ts:12](https://github.com/dim-daskalov/near-sdk-js/blob/d666013bbb17e79dbf6b4425d4bac78f40b0804c/packages/near-sdk-js/src/collections/lookup-set.ts#L12)
 
 ## Methods
 
@@ -68,7 +68,7 @@ Options for storing data.
 
 #### Defined in
 
-[packages/near-sdk-js/src/collections/lookup-set.ts:20](https://github.com/dim-daskalov/near-sdk-js/blob/55110428626c8c36ebf4dd321736ce1171846720/packages/near-sdk-js/src/collections/lookup-set.ts#L20)
+[packages/near-sdk-js/src/collections/lookup-set.ts:20](https://github.com/dim-daskalov/near-sdk-js/blob/d666013bbb17e79dbf6b4425d4bac78f40b0804c/packages/near-sdk-js/src/collections/lookup-set.ts#L20)
 
 ***
 
@@ -94,7 +94,7 @@ Options for storing the data.
 
 #### Defined in
 
-[packages/near-sdk-js/src/collections/lookup-set.ts:63](https://github.com/dim-daskalov/near-sdk-js/blob/55110428626c8c36ebf4dd321736ce1171846720/packages/near-sdk-js/src/collections/lookup-set.ts#L63)
+[packages/near-sdk-js/src/collections/lookup-set.ts:63](https://github.com/dim-daskalov/near-sdk-js/blob/d666013bbb17e79dbf6b4425d4bac78f40b0804c/packages/near-sdk-js/src/collections/lookup-set.ts#L63)
 
 ***
 
@@ -120,7 +120,7 @@ Options for storing data.
 
 #### Defined in
 
-[packages/near-sdk-js/src/collections/lookup-set.ts:34](https://github.com/dim-daskalov/near-sdk-js/blob/55110428626c8c36ebf4dd321736ce1171846720/packages/near-sdk-js/src/collections/lookup-set.ts#L34)
+[packages/near-sdk-js/src/collections/lookup-set.ts:34](https://github.com/dim-daskalov/near-sdk-js/blob/d666013bbb17e79dbf6b4425d4bac78f40b0804c/packages/near-sdk-js/src/collections/lookup-set.ts#L34)
 
 ***
 
@@ -142,7 +142,7 @@ Options for storing the data.
 
 #### Defined in
 
-[packages/near-sdk-js/src/collections/lookup-set.ts:75](https://github.com/dim-daskalov/near-sdk-js/blob/55110428626c8c36ebf4dd321736ce1171846720/packages/near-sdk-js/src/collections/lookup-set.ts#L75)
+[packages/near-sdk-js/src/collections/lookup-set.ts:75](https://github.com/dim-daskalov/near-sdk-js/blob/d666013bbb17e79dbf6b4425d4bac78f40b0804c/packages/near-sdk-js/src/collections/lookup-set.ts#L75)
 
 ***
 
@@ -169,7 +169,7 @@ Options for storing the data.
 
 #### Defined in
 
-[packages/near-sdk-js/src/collections/lookup-set.ts:49](https://github.com/dim-daskalov/near-sdk-js/blob/55110428626c8c36ebf4dd321736ce1171846720/packages/near-sdk-js/src/collections/lookup-set.ts#L49)
+[packages/near-sdk-js/src/collections/lookup-set.ts:49](https://github.com/dim-daskalov/near-sdk-js/blob/d666013bbb17e79dbf6b4425d4bac78f40b0804c/packages/near-sdk-js/src/collections/lookup-set.ts#L49)
 
 ***
 
@@ -195,4 +195,4 @@ The deserialized data to create an instance from.
 
 #### Defined in
 
-[packages/near-sdk-js/src/collections/lookup-set.ts:84](https://github.com/dim-daskalov/near-sdk-js/blob/55110428626c8c36ebf4dd321736ce1171846720/packages/near-sdk-js/src/collections/lookup-set.ts#L84)
+[packages/near-sdk-js/src/collections/lookup-set.ts:84](https://github.com/dim-daskalov/near-sdk-js/blob/d666013bbb17e79dbf6b4425d4bac78f40b0804c/packages/near-sdk-js/src/collections/lookup-set.ts#L84)

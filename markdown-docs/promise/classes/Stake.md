@@ -38,7 +38,7 @@ The public key to use for staking.
 
 #### Defined in
 
-[packages/near-sdk-js/src/promise.ts:209](https://github.com/dim-daskalov/near-sdk-js/blob/55110428626c8c36ebf4dd321736ce1171846720/packages/near-sdk-js/src/promise.ts#L209)
+[packages/near-sdk-js/src/promise.ts:209](https://github.com/dim-daskalov/near-sdk-js/blob/d666013bbb17e79dbf6b4425d4bac78f40b0804c/packages/near-sdk-js/src/promise.ts#L209)
 
 ## Properties
 
@@ -50,7 +50,7 @@ The amount of NEAR to tranfer.
 
 #### Defined in
 
-[packages/near-sdk-js/src/promise.ts:209](https://github.com/dim-daskalov/near-sdk-js/blob/55110428626c8c36ebf4dd321736ce1171846720/packages/near-sdk-js/src/promise.ts#L209)
+[packages/near-sdk-js/src/promise.ts:209](https://github.com/dim-daskalov/near-sdk-js/blob/d666013bbb17e79dbf6b4425d4bac78f40b0804c/packages/near-sdk-js/src/promise.ts#L209)
 
 ***
 
@@ -62,7 +62,7 @@ The public key to use for staking.
 
 #### Defined in
 
-[packages/near-sdk-js/src/promise.ts:209](https://github.com/dim-daskalov/near-sdk-js/blob/55110428626c8c36ebf4dd321736ce1171846720/packages/near-sdk-js/src/promise.ts#L209)
+[packages/near-sdk-js/src/promise.ts:209](https://github.com/dim-daskalov/near-sdk-js/blob/d666013bbb17e79dbf6b4425d4bac78f40b0804c/packages/near-sdk-js/src/promise.ts#L209)
 
 ## Methods
 
@@ -88,4 +88,4 @@ The index of the promise batch to attach the action to.
 
 #### Defined in
 
-[packages/near-sdk-js/src/promise.ts:213](https://github.com/dim-daskalov/near-sdk-js/blob/55110428626c8c36ebf4dd321736ce1171846720/packages/near-sdk-js/src/promise.ts#L213)
+[packages/near-sdk-js/src/promise.ts:213](https://github.com/dim-daskalov/near-sdk-js/blob/d666013bbb17e79dbf6b4425d4bac78f40b0804c/packages/near-sdk-js/src/promise.ts#L213)

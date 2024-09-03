@@ -26,4 +26,4 @@ The error message to be printed.
 
 ## Defined in
 
-[packages/near-sdk-js/src/utils.ts:58](https://github.com/dim-daskalov/near-sdk-js/blob/55110428626c8c36ebf4dd321736ce1171846720/packages/near-sdk-js/src/utils.ts#L58)
+[packages/near-sdk-js/src/utils.ts:58](https://github.com/dim-daskalov/near-sdk-js/blob/d666013bbb17e79dbf6b4425d4bac78f40b0804c/packages/near-sdk-js/src/utils.ts#L58)

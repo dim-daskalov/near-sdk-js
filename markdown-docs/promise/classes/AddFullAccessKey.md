@@ -38,7 +38,7 @@ The nonce to use.
 
 #### Defined in
 
-[packages/near-sdk-js/src/promise.ts:232](https://github.com/dim-daskalov/near-sdk-js/blob/d666013bbb17e79dbf6b4425d4bac78f40b0804c/packages/near-sdk-js/src/promise.ts#L232)
+[packages/near-sdk-js/src/promise.ts:232](https://github.com/dim-daskalov/near-sdk-js/blob/cf610b7475ae1e74bbe6227c6e21559649e3c5c3/packages/near-sdk-js/src/promise.ts#L232)
 
 ## Properties
 
@@ -50,7 +50,7 @@ The nonce to use.
 
 #### Defined in
 
-[packages/near-sdk-js/src/promise.ts:232](https://github.com/dim-daskalov/near-sdk-js/blob/d666013bbb17e79dbf6b4425d4bac78f40b0804c/packages/near-sdk-js/src/promise.ts#L232)
+[packages/near-sdk-js/src/promise.ts:232](https://github.com/dim-daskalov/near-sdk-js/blob/cf610b7475ae1e74bbe6227c6e21559649e3c5c3/packages/near-sdk-js/src/promise.ts#L232)
 
 ***
 
@@ -62,7 +62,7 @@ The public key to add as a full access key.
 
 #### Defined in
 
-[packages/near-sdk-js/src/promise.ts:232](https://github.com/dim-daskalov/near-sdk-js/blob/d666013bbb17e79dbf6b4425d4bac78f40b0804c/packages/near-sdk-js/src/promise.ts#L232)
+[packages/near-sdk-js/src/promise.ts:232](https://github.com/dim-daskalov/near-sdk-js/blob/cf610b7475ae1e74bbe6227c6e21559649e3c5c3/packages/near-sdk-js/src/promise.ts#L232)
 
 ## Methods
 
@@ -88,4 +88,4 @@ The index of the promise batch to attach the action to.
 
 #### Defined in
 
-[packages/near-sdk-js/src/promise.ts:236](https://github.com/dim-daskalov/near-sdk-js/blob/d666013bbb17e79dbf6b4425d4bac78f40b0804c/packages/near-sdk-js/src/promise.ts#L236)
+[packages/near-sdk-js/src/promise.ts:236](https://github.com/dim-daskalov/near-sdk-js/blob/cf610b7475ae1e74bbe6227c6e21559649e3c5c3/packages/near-sdk-js/src/promise.ts#L236)

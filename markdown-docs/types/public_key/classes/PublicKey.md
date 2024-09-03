@@ -26,7 +26,7 @@ The string you want to create a PublicKey from.
 
 #### Defined in
 
-[packages/near-sdk-js/src/types/public\_key.ts:91](https://github.com/dim-daskalov/near-sdk-js/blob/d666013bbb17e79dbf6b4425d4bac78f40b0804c/packages/near-sdk-js/src/types/public_key.ts#L91)
+[packages/near-sdk-js/src/types/public\_key.ts:91](https://github.com/dim-daskalov/near-sdk-js/blob/cf610b7475ae1e74bbe6227c6e21559649e3c5c3/packages/near-sdk-js/src/types/public_key.ts#L91)
 
 ## Properties
 
@@ -38,7 +38,7 @@ The actual value of the public key.
 
 #### Defined in
 
-[packages/near-sdk-js/src/types/public\_key.ts:85](https://github.com/dim-daskalov/near-sdk-js/blob/d666013bbb17e79dbf6b4425d4bac78f40b0804c/packages/near-sdk-js/src/types/public_key.ts#L85)
+[packages/near-sdk-js/src/types/public\_key.ts:85](https://github.com/dim-daskalov/near-sdk-js/blob/cf610b7475ae1e74bbe6227c6e21559649e3c5c3/packages/near-sdk-js/src/types/public_key.ts#L85)
 
 ## Methods
 
@@ -54,7 +54,7 @@ The curve type of the public key.
 
 #### Defined in
 
-[packages/near-sdk-js/src/types/public\_key.ts:105](https://github.com/dim-daskalov/near-sdk-js/blob/d666013bbb17e79dbf6b4425d4bac78f40b0804c/packages/near-sdk-js/src/types/public_key.ts#L105)
+[packages/near-sdk-js/src/types/public\_key.ts:105](https://github.com/dim-daskalov/near-sdk-js/blob/cf610b7475ae1e74bbe6227c6e21559649e3c5c3/packages/near-sdk-js/src/types/public_key.ts#L105)
 
 ***
 
@@ -76,4 +76,4 @@ The public key string you want to create a PublicKey from.
 
 #### Defined in
 
-[packages/near-sdk-js/src/types/public\_key.ts:114](https://github.com/dim-daskalov/near-sdk-js/blob/d666013bbb17e79dbf6b4425d4bac78f40b0804c/packages/near-sdk-js/src/types/public_key.ts#L114)
+[packages/near-sdk-js/src/types/public\_key.ts:114](https://github.com/dim-daskalov/near-sdk-js/blob/cf610b7475ae1e74bbe6227c6e21559649e3c5c3/packages/near-sdk-js/src/types/public_key.ts#L114)

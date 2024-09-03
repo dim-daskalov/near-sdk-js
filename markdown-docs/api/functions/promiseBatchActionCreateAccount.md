@@ -22,4 +22,4 @@ The index of the promise to attach a create account action to.
 
 ## Defined in
 
-[packages/near-sdk-js/src/api.ts:571](https://github.com/dim-daskalov/near-sdk-js/blob/d666013bbb17e79dbf6b4425d4bac78f40b0804c/packages/near-sdk-js/src/api.ts#L571)
+[packages/near-sdk-js/src/api.ts:571](https://github.com/dim-daskalov/near-sdk-js/blob/cf610b7475ae1e74bbe6227c6e21559649e3c5c3/packages/near-sdk-js/src/api.ts#L571)

@@ -26,7 +26,7 @@
 
 #### Defined in
 
-[packages/near-sdk-js/src/promise.ts:341](https://github.com/dim-daskalov/near-sdk-js/blob/d666013bbb17e79dbf6b4425d4bac78f40b0804c/packages/near-sdk-js/src/promise.ts#L341)
+[packages/near-sdk-js/src/promise.ts:341](https://github.com/dim-daskalov/near-sdk-js/blob/cf610b7475ae1e74bbe6227c6e21559649e3c5c3/packages/near-sdk-js/src/promise.ts#L341)
 
 ## Properties
 
@@ -36,7 +36,7 @@
 
 #### Defined in
 
-[packages/near-sdk-js/src/promise.ts:342](https://github.com/dim-daskalov/near-sdk-js/blob/d666013bbb17e79dbf6b4425d4bac78f40b0804c/packages/near-sdk-js/src/promise.ts#L342)
+[packages/near-sdk-js/src/promise.ts:342](https://github.com/dim-daskalov/near-sdk-js/blob/cf610b7475ae1e74bbe6227c6e21559649e3c5c3/packages/near-sdk-js/src/promise.ts#L342)
 
 ***
 
@@ -46,7 +46,7 @@
 
 #### Defined in
 
-[packages/near-sdk-js/src/promise.ts:343](https://github.com/dim-daskalov/near-sdk-js/blob/d666013bbb17e79dbf6b4425d4bac78f40b0804c/packages/near-sdk-js/src/promise.ts#L343)
+[packages/near-sdk-js/src/promise.ts:343](https://github.com/dim-daskalov/near-sdk-js/blob/cf610b7475ae1e74bbe6227c6e21559649e3c5c3/packages/near-sdk-js/src/promise.ts#L343)
 
 ***
 
@@ -56,7 +56,7 @@
 
 #### Defined in
 
-[packages/near-sdk-js/src/promise.ts:344](https://github.com/dim-daskalov/near-sdk-js/blob/d666013bbb17e79dbf6b4425d4bac78f40b0804c/packages/near-sdk-js/src/promise.ts#L344)
+[packages/near-sdk-js/src/promise.ts:344](https://github.com/dim-daskalov/near-sdk-js/blob/cf610b7475ae1e74bbe6227c6e21559649e3c5c3/packages/near-sdk-js/src/promise.ts#L344)
 
 ## Methods
 
@@ -70,4 +70,4 @@
 
 #### Defined in
 
-[packages/near-sdk-js/src/promise.ts:347](https://github.com/dim-daskalov/near-sdk-js/blob/d666013bbb17e79dbf6b4425d4bac78f40b0804c/packages/near-sdk-js/src/promise.ts#L347)
+[packages/near-sdk-js/src/promise.ts:347](https://github.com/dim-daskalov/near-sdk-js/blob/cf610b7475ae1e74bbe6227c6e21559649e3c5c3/packages/near-sdk-js/src/promise.ts#L347)

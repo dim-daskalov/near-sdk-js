@@ -22,4 +22,4 @@ The index of the promise to return the result for.
 
 ## Defined in
 
-[packages/near-sdk-js/src/api.ts:822](https://github.com/dim-daskalov/near-sdk-js/blob/c0112192f31548f11b769a1fd8095c77a0fff154/packages/near-sdk-js/src/api.ts#L822)
+[packages/near-sdk-js/src/api.ts:822](https://github.com/dim-daskalov/near-sdk-js/blob/0c34997aba6fa3f679d39c16d17f5e07ff189c24/packages/near-sdk-js/src/api.ts#L822)

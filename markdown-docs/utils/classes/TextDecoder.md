@@ -24,7 +24,7 @@ A subset of NodeJS TextDecoder API. Only support utf-8 and latin1 encoding.
 
 #### Defined in
 
-[packages/near-sdk-js/src/utils.ts:308](https://github.com/dim-daskalov/near-sdk-js/blob/55c8ffce45a02e867988513feedc0b7da3bce940/packages/near-sdk-js/src/utils.ts#L308)
+[packages/near-sdk-js/src/utils.ts:308](https://github.com/dim-daskalov/near-sdk-js/blob/c0112192f31548f11b769a1fd8095c77a0fff154/packages/near-sdk-js/src/utils.ts#L308)
 
 ## Properties
 
@@ -34,7 +34,7 @@ A subset of NodeJS TextDecoder API. Only support utf-8 and latin1 encoding.
 
 #### Defined in
 
-[packages/near-sdk-js/src/utils.ts:308](https://github.com/dim-daskalov/near-sdk-js/blob/55c8ffce45a02e867988513feedc0b7da3bce940/packages/near-sdk-js/src/utils.ts#L308)
+[packages/near-sdk-js/src/utils.ts:308](https://github.com/dim-daskalov/near-sdk-js/blob/c0112192f31548f11b769a1fd8095c77a0fff154/packages/near-sdk-js/src/utils.ts#L308)
 
 ## Methods
 
@@ -52,4 +52,4 @@ A subset of NodeJS TextDecoder API. Only support utf-8 and latin1 encoding.
 
 #### Defined in
 
-[packages/near-sdk-js/src/utils.ts:310](https://github.com/dim-daskalov/near-sdk-js/blob/55c8ffce45a02e867988513feedc0b7da3bce940/packages/near-sdk-js/src/utils.ts#L310)
+[packages/near-sdk-js/src/utils.ts:310](https://github.com/dim-daskalov/near-sdk-js/blob/c0112192f31548f11b769a1fd8095c77a0fff154/packages/near-sdk-js/src/utils.ts#L310)

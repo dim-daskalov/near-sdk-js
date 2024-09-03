@@ -53,4 +53,4 @@ The index of the promise batch to attach the action to.
 
 #### Defined in
 
-[packages/near-sdk-js/src/promise.ts:15](https://github.com/dim-daskalov/near-sdk-js/blob/55c8ffce45a02e867988513feedc0b7da3bce940/packages/near-sdk-js/src/promise.ts#L15)
+[packages/near-sdk-js/src/promise.ts:15](https://github.com/dim-daskalov/near-sdk-js/blob/c0112192f31548f11b769a1fd8095c77a0fff154/packages/near-sdk-js/src/promise.ts#L15)

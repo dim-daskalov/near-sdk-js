@@ -12,4 +12,4 @@ One NEAR. 1 NEAR = 10^24 yoctoNEAR.
 
 ## Defined in
 
-[packages/near-sdk-js/src/types/primitives.ts:32](https://github.com/dim-daskalov/near-sdk-js/blob/55c8ffce45a02e867988513feedc0b7da3bce940/packages/near-sdk-js/src/types/primitives.ts#L32)
+[packages/near-sdk-js/src/types/primitives.ts:32](https://github.com/dim-daskalov/near-sdk-js/blob/c0112192f31548f11b769a1fd8095c77a0fff154/packages/near-sdk-js/src/types/primitives.ts#L32)

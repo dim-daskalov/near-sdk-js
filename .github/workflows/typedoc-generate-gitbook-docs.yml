@@ -41,7 +41,7 @@ jobs:
 
       - name: Deploy to GitBook
         run: |
-          git clone --branch=git-books https://github.com/near/near-sdk-js.git book
+          git clone --branch=git-books https://dim-daskalov:${{ secrets.GH_PAT }}@github.com/dim-daskalov/near-sdk-js.git book
           rsync -av --delete markdown-docs/ book/
           cd book
           git config user.name "GitHub Actions"
